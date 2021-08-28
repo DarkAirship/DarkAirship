@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Semyon
+- 🌱 I’m currently learning shellscript, vimscript and python
+- 💞️ I’m new to this thing, but I like it
+- 📫 How to reach me: it's @darkairship
