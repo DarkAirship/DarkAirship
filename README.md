@@ -7,9 +7,9 @@
 
 Everything is in [DarkAirship/dotfiles](https://github.com/DarkAirship/dotfiles) repository
 
-I'm trying the git --bare repository method and don't have anywhere useful to put README in that repository. So I just put it here.
+I'm trying the git --bare repository method and don't have anywhere useful to put README. So I just put it here.
 
-## Additional software
+## List of additional software
 
 **Global**:
 - [Nerd Font](https://www.nerdfonts.com/font-downloads) (e.g. LiterationMono)
