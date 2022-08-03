@@ -7,7 +7,7 @@
 
 Everything is in [DarkAirship/dotfiles](https://github.com/DarkAirship/dotfiles) repository
 
-I'm trying the git --bare repository method and don't have anywhere useful to put README. So I just put it here.
+I'm trying the [git --bare repository method](https://www.atlassian.com/git/tutorials/dotfiles) and don't have anywhere useful to put README. So I just put it here.
 
 ## List of additional software
 
